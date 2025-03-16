@@ -1,6 +1,6 @@
 # Bright Data的快速代理
 
-[![促销](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/solutions/fast-proxies)
+[![促销](https://github.com/bright-cn/Rotating-Residential-Proxies/raw/main/50%25%20off%20promo%20(1).png)](https://www.bright.cn/solutions/fast-proxies)
 
 ## 概述
 体验 Bright Data 的[快速代理](https://www.bright.cn/solutions/fast-proxies)带来的无缝爬取，精准定位、稳定性极佳且响应速度极快。
